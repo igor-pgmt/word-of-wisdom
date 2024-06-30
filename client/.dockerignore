@@ -1,0 +1,15 @@
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.out
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
