@@ -3,7 +3,7 @@ module github.com/igor-pgmt/word-of-wisdom/client
 go 1.22
 
 require (
-	github.com/igor-pgmt/word-of-wisdom v0.0.0-20240630162136-c7f23b7a717d
+	github.com/igor-pgmt/word-of-wisdom v0.1.0
 	github.com/sirupsen/logrus v1.9.3
 )
 
